@@ -48,7 +48,7 @@ MC8-util is a package for creating datapacks. It includes:
 
 * [NPM](https://www.npmjs.com/package/mc8-util)
 * [GitHub](https://github.com/ephf/mc8-util)
-* [Documentation](https://www.npmjs.com/package/mc8-util#README.md)
+* [Documentation](https://github.com/ephf/mc8-util#README.md)
 
 ## Discontinued: [MCPlug.js](https://www.npmjs.com/package/mcplug.js)
 
@@ -56,3 +56,9 @@ MCPlug.js is a pacakge for creating minecraft plugins in JavaScript. It includes
 
 * Simple Plugin generator
 * Generates a `.jar` file
+
+### Links: 
+
+* [NPM](https://www.npmjs.com/package/mcplug.js)
+* [GitHub](https://github.com/ephf/plug)
+* [Documentation](https://github.com/ephf/plug#README.md)
