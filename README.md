@@ -5,7 +5,7 @@ My name is ephf! I create discord bots, Minecraft datapacks and plugins, and npm
 ## Links:
 
 * [YouTube](https://www.youtube.com/channel/UCqfHbmI7lEK9vHTF4owbt9w)
-* [Discord Server (ephf#9291)](https://discord.gg/9F8HFrdpd6)
+* [Discord Server (ephf#0001)](https://discord.gg/9F8HFrdpd6)
 * [NPM Profile](https://www.npmjs.com/~ephf)
 * [Current Project (Discord.Short)](https://www.npmjs.com/package/discord.short)
 
