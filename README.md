@@ -1,5 +1,5 @@
 # Hello! 👋
 
-I am a full stack developer in JavaScript, yeah not much else :/
+I do it all
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ephf&layout=compact&theme=dark)
