@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Grant, I'm a high school student, and I program fullstack.
+I'm Grant, I'm an undergraduate student at Virginia Tech. This is what I use,
 
 [![Languages](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,py,rust,ts)](https://skillicons.dev)
 
